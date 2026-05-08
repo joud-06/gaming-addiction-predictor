@@ -70,7 +70,7 @@ loss_of_other_interests = st.selectbox(
 
 # User input: whether the user continues gaming despite problems
 continued_despite_problems = st.selectbox(
-    "Continued despite problems (0 = No, 1 = Yes)",
+    "Continued gaming despite problems (0 = No, 1 = Yes)",
     [0, 1]
 )
 
